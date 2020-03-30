@@ -1,0 +1,229 @@
+@media screen and (max-width: 1024px){
+    
+    .container {
+        margin: 0 20px;
+    }
+    
+    header{
+        height: 70vh;
+    }
+    
+    .hero-text{
+        width: 100%;
+    }
+    
+    .span_1_of_4{
+        width: 49.2%;
+        
+    }
+    .team-members .col{
+        margin-right: 0;
+    }
+    
+    .services-icon .col{
+        margin-left: 0;
+    }
+    #skill .col:nth-child(3),
+    #skill .col:nth-child(4){
+        margin-top: 40px;
+    }
+    
+    .display{
+        
+    display: block;
+    text-align: center;
+    
+    }
+    
+    .progress{
+        margin-left: 0;
+    }
+    
+    #testimonial .col{
+    margin-top: 60px;
+    
+    }
+    
+    #testimonial h3{
+        
+    margin-top: 20px;
+    }
+    
+    #testimonial .review{
+        margin: auto;
+        margin-top: 30px;
+    }
+    
+    #contact .span_1_of_2{
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+    
+}
+
+@media screen and (max-width: 980px){
+    .footer ul li{   
+        margin: 0 10px;
+    }
+    
+}
+
+@media screen and (max-width: 800px){
+    .menu{
+        display: none;
+    }
+    
+      h1 { font-size: 36px;
+    }
+    
+    .open-nav{
+        display: block;
+    }
+    
+}
+
+@media screen and (max-width: 768px){
+    
+    header{
+        height: 50vh;
+    }
+    
+  
+    h2{
+        font-size: 30px;
+    }
+    
+        
+     .services-icon .col {
+       padding: 20px 15px;
+    }
+    
+    
+    .footer ul li a {
+        font-size: 20px;
+    }
+   
+  
+}
+
+@media screen and (max-width: 576px){
+    
+    .menu-item{
+        position: absolute;
+        top: 20%;
+        left: 35%;
+    
+    }
+    .span_1_of_4{
+        width: 100%;
+        
+    }
+    
+    .span_1_of_2{
+        width: 100%;
+    }
+    
+    #skill .col{
+        margin-top: 40px;
+    }
+    
+     .footer ul li{   
+        margin: 0 5px;
+    }
+    
+    .footer ul li a {
+        font-size: 16px;
+    }
+    
+}
+
+@media screen and (max-width: 480px){
+    
+        
+     h1 { 
+         font-size: 30px;
+    }
+    
+    p {
+        width: 100%;
+    }
+    
+       .footer ul li{   
+        margin: 0 2px;
+    }
+    
+    .footer ul li a {
+        font-size: 12px;
+    }
+    
+    #contact form{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 420px){
+    h1 {
+        font-size: 26px;
+        
+    }
+    #portfolio h4 {
+        font-size: 15px;
+        
+    }
+    .menu-item{
+        position: absolute;
+        top: 20%;
+        left: 30%;
+    
+    }
+   .open-nav{
+        margin-top: 5px;
+    }
+}
+
+@media screen and (max-width: 380px){
+    
+    .logo {
+        height: 25px;
+    }
+    
+    h2{
+        font-size: 25px;
+    }
+    
+     h3{
+        font-size: 20px;
+    }
+    
+    p {
+        font-size: 16px;
+    }
+    
+    .portfolio-filter button {
+   
+        padding: 10px 15px;
+        font-size: 16px;
+    }
+    .menu-item a {
+        font-size: 25px;
+    }
+    .open-nav span {
+        font-size: 30px;
+    }
+  
+    
+}
+
+@media screen and (max-width: 320px){
+    .social-icon ul li a i {
+        width: 35px;
+        height: 35px;
+        font-size: 16px;
+    }
+    
+    .portfolio-filter button{
+        padding: 10px;
+        font-size: 14px;
+    }
+}
